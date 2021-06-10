@@ -1,3 +1,1 @@
-# Kotlin-Simple-Code
-
 # JoelJebittoKt
